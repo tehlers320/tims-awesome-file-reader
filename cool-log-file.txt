@@ -1,0 +1,17 @@
+
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[ERROR] connection failed to something, moving on
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[INFO] its fine but maybe not
+[ERROR] connection failed to something, moving on
+[INFO] its fine but maybe not
+[ERROR] connection failed to something, moving on
+[INFO] its fine but maybe not
